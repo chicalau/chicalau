@@ -1,5 +1,5 @@
 
-<!--
+HOLA ⚡
 
 - 🤔 Conectando los puntos hacia atrás me di cuenta que siempre me gustó la innovación y la tecnología, en el colegio presenté proyectos sobre cómo funcionan los semáforos, cómo funcionan los aviones, cómo funciona el metro cable y en el último año hice un robot de juguete que funcionaba con luz solar.
 
@@ -7,7 +7,5 @@ Desde el 2018 me empecé a interesar más por el mundo de la programación e hic
 
 - 😄 Soy una persona curiosa, me gusta aprender de todo y más cuando se trata de algo innovador, por lo que estoy decida a dedicarme a la tecnología y especialmente al desarrollo de software.
 
-- 📫 Contacto: https://www.linkedin.com/in/laura-chica-1a480a244/ ⚡
+- 📫 Contacto: https://www.linkedin.com/in/laura-chica-1a480a244/
 
-
--->
